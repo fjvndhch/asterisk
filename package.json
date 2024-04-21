@@ -1,0 +1,28 @@
+{
+  "name": "fjvndhch",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjvndhch/asterisk.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"guzibiji": "^1.0.0",
+  	"sgobors": "^1.0.0",
+	"sgobors-one": "^1.0.0",
+  	"gowinov": "^1.0.0",
+	"gowinov-one": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
